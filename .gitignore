@@ -1,0 +1,4 @@
+hw0/data
+hw0/src/__pycache__
+hw0/tests/__pycache__
+hw0/src/simple_ml_ext.so
